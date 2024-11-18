@@ -27,7 +27,7 @@ module.exports = {
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   OWNER_NAME: process.env.OWNER_NAME || "Asmodeus Epzi",
   HEROKU: toBool(process.env.HEROKU) || false,
-  BOT_NAME: process.env.BOT_NAME || "Queen D ~ Epzi-V3",
+  BOT_NAME: process.env.BOT_NAME || "ESI-MD",
   AUTO_READ: toBool(process.env.AUTO_READ) || false,
   AUTO_STATUS_READ: toBool(process.env.AUTO_STATUS_READ) || false,
   PROCESSNAME: process.env.PROCESSNAME || "epzi-v3",
